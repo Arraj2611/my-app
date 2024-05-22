@@ -1,6 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
 import React from 'react';
+import 'tachyons';
 
 class App extends React.Component {
   render() {
