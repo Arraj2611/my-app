@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Card from './Card';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 import { robots } from './robots';
+import Cardlist from './CardList';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
